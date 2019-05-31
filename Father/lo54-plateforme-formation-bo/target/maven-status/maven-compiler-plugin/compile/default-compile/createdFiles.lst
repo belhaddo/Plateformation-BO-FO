@@ -1,0 +1,17 @@
+com\plateforme\formation\entity\CourseSession.class
+com\plateforme\formation\services\LocationService.class
+com\plateforme\formation\controllers\ClientController.class
+com\plateforme\formation\repository\CourseSessionDao.class
+com\plateforme\formation\services\ClientService.class
+com\plateforme\formation\services\CourseService.class
+com\plateforme\formation\services\CourseSessionService.class
+com\plateforme\formation\entity\Location.class
+com\plateforme\formation\JavaApplication.class
+com\plateforme\formation\repository\CourseDao.class
+com\plateforme\formation\repository\LocationDao.class
+com\plateforme\formation\controllers\CourseSessionController.class
+com\plateforme\formation\entity\Course.class
+com\plateforme\formation\repository\ClientDao.class
+com\plateforme\formation\controllers\LocationController.class
+com\plateforme\formation\controllers\CourseController.class
+com\plateforme\formation\entity\Client.class
